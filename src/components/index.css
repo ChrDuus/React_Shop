@@ -1,0 +1,27 @@
+.product-container{
+    display:flex;
+    gap: 32px;
+    padding-left:32px;
+    padding-right:32px;
+    
+    flex-wrap: nowrap;
+    word-break: break-all;
+    
+}
+
+.main-container{
+    
+    display:flex;
+    padding-right: 32px;    
+}
+
+.cart-div{
+    position: sticky;
+    
+}
+
+@media(max-width: 850px){
+    .product-container{
+        flex-direction: column;
+    }
+}
