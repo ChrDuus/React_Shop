@@ -15,7 +15,7 @@ class App extends Component {
                         <Product title="Banana" img="../assets/img/banana.jpg" description="This is a Banana"/>
                         <Product title= "Cucumber" img="../assets/img/cucumber.jpg" description="This is a Cucumber"/>
                         <Product title= "Tomatoe" img="../assets/img/tomato.jpg" description="This is a Tomato"/>
-                        <Product title= "Tomatoe" img="../assets/img/tomato.jpg" description="This is a Tomato"/>
+                        <Product title= "Apple" img="../assets/img/apple.jpg" description="This is an Apple"/>
 
                     </div>
                     <div className="cart-div">
